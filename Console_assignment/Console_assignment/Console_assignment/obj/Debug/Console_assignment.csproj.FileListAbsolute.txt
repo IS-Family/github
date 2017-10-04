@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Console_assignment\Console_assignment\bin\Debug\Console_assignment.exe.config
+C:\Users\User\source\repos\Console_assignment\Console_assignment\bin\Debug\Console_assignment.exe
+C:\Users\User\source\repos\Console_assignment\Console_assignment\bin\Debug\Console_assignment.pdb
+C:\Users\User\source\repos\Console_assignment\Console_assignment\obj\Debug\Console_assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Console_assignment\Console_assignment\obj\Debug\Console_assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Console_assignment\Console_assignment\obj\Debug\Console_assignment.exe
+C:\Users\User\source\repos\Console_assignment\Console_assignment\obj\Debug\Console_assignment.pdb
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\bin\Debug\Console_assignment.exe.config
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\bin\Debug\Console_assignment.exe
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\bin\Debug\Console_assignment.pdb
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\obj\Debug\Console_assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\obj\Debug\Console_assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\obj\Debug\Console_assignment.exe
+C:\Users\User\source\repos\Console_assignment\Console_assignment\Console_assignment\obj\Debug\Console_assignment.pdb
